@@ -1,0 +1,8 @@
+Halo ini adalah tech atau tools yang ingin saya pelajari
+
+- React JS
+- Node JS
+- Tailwind CSS
+- Typescript
+- PHP
+- Laravel
